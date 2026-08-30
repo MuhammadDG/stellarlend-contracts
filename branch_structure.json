@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-2096-add-failure-path-and-boundary-coverage-for",
+    "security/issue-2098-add-failure-path-and-boundary-coverage-for"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-2096-add-failure-path-and-boundary-coverage-for": "main",
+    "security/issue-2098-add-failure-path-and-boundary-coverage-for": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-2096-add-failure-path-and-boundary-coverage-for",
+    "security/issue-2098-add-failure-path-and-boundary-coverage-for"
+  ]
+}
